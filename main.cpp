@@ -38,7 +38,7 @@ bool check_set(Card a, Card b, Card c)
           //     (((a.get_shading() != b.get_shading()) 
           // && (b.get_shading() != c.get_shading())
           // && (a.get_shading() != c.get_shading())))) //shading requirement
-    );
+     ) );
 }
 
 int main() 
